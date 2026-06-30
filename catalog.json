@@ -1,0 +1,13 @@
+{
+  "catalogVersion": 1,
+  "plugins": [
+    {
+      "id": "mindgraph-demo",
+      "name": "MindGraph Demo",
+      "description": "Referenz-Plugin: Dashboard-Widget + Update-Demo.",
+      "repo": "bydb/mindgraph-plugin-demo",
+      "author": "bydb",
+      "category": "productivity"
+    }
+  ]
+}
