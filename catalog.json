@@ -16,6 +16,14 @@
       "repo": "bydb/mindgraph-excalidraw-plugin",
       "author": "bydb",
       "category": "documents"
+    },
+    {
+      "id": "mindgraph-faktura",
+      "name": "Faktura",
+      "description": "Kunden, Leistungen, Angebote und Rechnungen als PDF im Vault, Versand als Mail-Entwurf.",
+      "repo": "bydb/mindgraph-faktura-plugin",
+      "author": "bydb",
+      "category": "business"
     }
   ]
 }
