@@ -20,7 +20,7 @@
     {
       "id": "mindgraph-faktura",
       "name": "Faktura",
-      "description": "Kunden, Leistungen, Angebote und Rechnungen als PDF im Vault, Versand als Mail-Entwurf.",
+      "description": "Kunden, Leistungen, Angebote und Rechnungen als PDF im Vault, Versand als Mail-Entwurf. Kundenanschriften per Websuche aus dem Impressum.",
       "repo": "bydb/mindgraph-faktura-plugin",
       "author": "bydb",
       "category": "business"
