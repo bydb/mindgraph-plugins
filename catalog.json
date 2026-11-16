@@ -24,6 +24,14 @@
       "repo": "bydb/mindgraph-faktura-plugin",
       "author": "bydb",
       "category": "business"
+    },
+    {
+      "id": "mindgraph-haushalt",
+      "name": "Haushalt",
+      "description": "Nebenbuch für Einrichtungen, deren Träger offiziell bucht: Haushaltsstellen, Belege im Vault, Ansatz/Ist/Rest, Abgleich mit dem Träger, Jahresabschluss und Haushaltstabelle als Excel/PDF. Import aus Quicken (QIF).",
+      "repo": "bydb/mindgraph-haushalt-plugin",
+      "author": "bydb",
+      "category": "business"
     }
   ]
 }
